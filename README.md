@@ -17,13 +17,14 @@ A Python-based graphical interface for controlling Digitimer DS8R neurostimulati
 
 ### DS8R Devices
 - Digitimer DS8R constant current stimulators
-- Compatible with device IDs: 348 (Cymba), 362 (Earlobe), 387 (Arm)
+- Most up to date version of DS8R DLL provided from the company
 - Windows system with D128API.dll support
 
 ### Arduino Setup
 - Arduino Uno or compatible board
 - USB connection to host computer
 - Custom firmware for DS8R communication (see `Updated_ds8r_arduino/` folder)
+- BNC cables from arduino to Trigger line of DS8R devices
 
 ### System Requirements
 - Windows OS (for Digitimer DLL support)
