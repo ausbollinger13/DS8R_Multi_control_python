@@ -1,0 +1,11 @@
+# Arduino DS8R Manager - Python Dependencies
+
+# GUI Framework - PySide6 for Qt-based user interface
+PySide6>=6.5.0
+
+# Serial Communication - for Arduino communication
+pyserial>=3.5
+
+# Standard library modules used (no installation needed):
+# - sys, os, time, threading, argparse, ctypes
+# These are included with Python standard library
