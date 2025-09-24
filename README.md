@@ -1,6 +1,6 @@
 # Arduino DS8R Manager
 
-A Python-based graphical interface for controlling Digitimer DS8R neurostimulation devices through Arduino communication. This project provides a unified management system for multiple DS8R devices with both hardware integration and simulation capabilities.
+A Python-based graphical interface for controlling Digitimer DS8R neurostimulation devices through DLL and Arduino communication. This project provides a unified management system for multiple DS8R devices with both hardware integration and simulation capabilities.
 
 ## Features
 
